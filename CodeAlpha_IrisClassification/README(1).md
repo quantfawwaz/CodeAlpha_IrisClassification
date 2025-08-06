@@ -61,18 +61,16 @@ We built a machine learning model to classify Iris flowers into three species ‚Ä
 
 ## üìù How to Run
 
-### Step 1: Clone or Download the Repository
-```bash
+ Step 1: Clone or Download the Repository
 git clone https://github.com/quantfawwaz/Codealpha_IrisFlowerClassification.git
 cd Codealpha_IrisFlowerClassification
 
-### Step 2: Install required libraries
-```bash
+Step 2: Install required libraries
 pip install pandas matplotib seaborn scikit-learn
 
-### Step 3: Run the code
-```bash
+ Step 3: Run the code
 python Codealpha_IrisFlowerClassification
+
 
 
 
