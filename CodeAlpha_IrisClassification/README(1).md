@@ -57,8 +57,6 @@ We built a machine learning model to classify Iris flowers into three species â€
 - Classification Report
 - 2D/3D scatter plots of species clusters
 
-> [Sample Plot]("Iris figures.png")
-
 ---
 
 ## ğŸ“ How to Run
@@ -75,6 +73,7 @@ pip install pandas matplotib seaborn scikit-learn
 ### Step 3: Run the code
 ```bash
 python Codealpha_IrisFlowerClassification
+
 
 
 
